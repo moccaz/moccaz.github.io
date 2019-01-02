@@ -1,50 +1,44 @@
-# Site settings
-title:       "Заметки по американски"
-header_title: "Блог"
-email:       qwertyaseo@yandex.ru
-author:      Артурчик
-description: "Изучение английского языка"
-baseurl:     "https://moccaz.github.io"
-url:         "https://moccaz.github.io"
+---
+title: Заметки по американски
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+header_title: Блог
+email: qwertyaseo@yandex.ru
+author: Артурчик
+description: Изучение английского языка
+baseurl: https://moccaz.github.io
+url: https://moccaz.github.io
 date_format: "%-d.%m.%Y"
-
-# Google services
-google_analytics: ""
-google_verification: ""
-
-# Facebook
-facebook_app_id: ""
-
-# Optional features
-animated:             false
-show_related_posts:   false
-show_post_footer:    true
-show_social_icons:    true
+google_analytics: ''
+google_verification: ''
+facebook_app_id: ''
+animated: false
+show_related_posts: false
+show_post_footer: true
+show_social_icons: true
 ajaxify_contact_form: true
-
-# Disqus post comments
-# (leave blank to disable Disqus)
-disqus_shortname: "disqus_xxx"
-
-# Social icons
+disqus_shortname: disqus_xxx
 github_username: 
-bitbucket_username:
-stackoverflow_id:
-twitter_username:
-google_plus_id:
-linkedin_username:
+bitbucket_username: 
+stackoverflow_id: 
+twitter_username: 
+google_plus_id: 
+linkedin_username: 
 facebook_username: 
-angellist_username:
-medium_id:
-bitcoin_url:
-paypal_url:
-flattr_button:
-instagram_username:
-
-# Post sharing icons
+angellist_username: 
+medium_id: 
+bitcoin_url: 
+paypal_url: 
+flattr_button: 
+instagram_username: 
 show_sharing_icons: true
-share_text: 'Поделись'
-# Change to 'true' to enable individual icons
+share_text: Поделись
 share_facebook: true
 share_twitter: true
 share_googleplus: false
@@ -54,15 +48,15 @@ share_tumblr: false
 share_reddit: false
 share_stumbleupon: false
 share_hackernews: false
-
-# Build settings
-markdown:     kramdown
+markdown: kramdown
 redcarpet:
-  extensions: ['smart', 'tables', 'with_toc_data']
-permalink:    "/:title/"
-paginate:     15
+  extensions:
+  - smart
+  - tables
+  - with_toc_data
+permalink: "/:title/"
+paginate: 15
 sass:
   compressed: true
-
-# Gems
-gems: [jekyll-paginate]
+gems:
+- jekyll-paginate
