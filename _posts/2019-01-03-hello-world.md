@@ -1,6 +1,7 @@
 ---
-layout: post
 title: test
+date: 2019-01-03 00:00:00 Z
+layout: post
 ---
 
 this is a test post
