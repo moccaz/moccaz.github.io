@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Hello, world!
+title: test
 ---
 
-This is a test post.
+this is a test post
 
-![](https://i.imgur.com/DbN1EzV.jpg)
+![](https://farm5.staticflickr.com/4492/38010671352_dca6f9d88e_o_d.jpg)
