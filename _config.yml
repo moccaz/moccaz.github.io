@@ -4,8 +4,8 @@ header_title: "Блог"
 email:       qwertyaseo@yandex.ru
 author:      Артурчик
 description: "Изучение английского языка"
-baseurl:     "https://moccaz.github.io/"
-url:         "https://moccaz.github.io/"
+baseurl:     "https://moccaz.github.io"
+url:         "https://moccaz.github.io"
 date_format: "%-d.%m.%Y"
 
 # Google services
