@@ -15,8 +15,8 @@ description: Изучение английского языка
 baseurl: https://moccaz.github.io
 url: https://moccaz.github.io
 date_format: "%-d.%m.%Y"
-google_analytics: 'UA-131739766-1'
-google_verification: 'UA-131739766-1'
+google_analytics: UA-131739766-1
+google_verification: UA-131739766-1
 facebook_app_id: ''
 animated: false
 show_related_posts: false
