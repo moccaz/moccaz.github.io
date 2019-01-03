@@ -1,19 +1,19 @@
 # Site settings
-title:       "Jekyll Bootstrap 4 with Docker"
-header_title: "Jekyll Bootstrap 4 with Docker"
-email:       your@ema.il
-author:      Your Name
-description: "Jekyll static blog boilerplate with Bootstrap 4 and Docker"
-baseurl:     "/jekyll-bootstrap4-docker"
-url:         "https://hexlet-boilerplates.github.io"
+title:       "Заметки по американски"
+header_title: "Блог"
+email:       qwertyaseo@yandex.ru
+author:      Артурчик
+description: "Изучение английского языка"
+baseurl:     "https://moccaz.github.io/"
+url:         "https://moccaz.github.io/"
 date_format: "%-d.%m.%Y"
 
 # Google services
-google_analytics: "UA-1360700-62"
+google_analytics: ""
 google_verification: ""
 
 # Facebook
-facebook_app_id: "1414002802233483"
+facebook_app_id: ""
 
 # Optional features
 animated:             false
@@ -27,13 +27,13 @@ ajaxify_contact_form: true
 disqus_shortname: "disqus_xxx"
 
 # Social icons
-github_username: hexlet
+github_username: 
 bitbucket_username:
 stackoverflow_id:
-twitter_username: hexlet
+twitter_username:
 google_plus_id:
 linkedin_username:
-facebook_username: hexlet
+facebook_username: 
 angellist_username:
 medium_id:
 bitcoin_url:
@@ -43,7 +43,7 @@ instagram_username:
 
 # Post sharing icons
 show_sharing_icons: true
-share_text: 'Share this post!'
+share_text: 'Поделись'
 # Change to 'true' to enable individual icons
 share_facebook: true
 share_twitter: true
