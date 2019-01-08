@@ -1,0 +1,16 @@
+---
+title: Местоимения
+date: 2019-01-08 09:05:00 Z
+permalink: "/pronouns"
+layout: post
+---
+
+I - Я 
+We - мы 
+You - ты/вы 
+They - они
+
+
+He - он 
+She - она 
+It - это 
